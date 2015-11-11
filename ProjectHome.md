@@ -1,0 +1,1 @@
+We do use this technology for a University application as the need is to broadcast course content ant to be able to follow the teacher in the anphitheater.
